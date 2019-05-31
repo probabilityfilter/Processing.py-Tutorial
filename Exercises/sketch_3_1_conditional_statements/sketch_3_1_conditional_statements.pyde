@@ -1,0 +1,5 @@
+size(600,400)
+background('#004477')
+noFill()
+stroke('#FFFFFF')
+strokeWeight(3)
